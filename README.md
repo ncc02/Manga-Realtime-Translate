@@ -1,4 +1,4 @@
-Hướng dẫn sử dụng
+# Hướng dẫn sử dụng
 
 Chức năng 1: Dịch bong bóng chat
 -	Để dịch văn bản chúng ta cần đưa con trỏ chuột vào bong bóng chat cần dịch (lưu ý vùng dịch trục y sẽ từ đầu con trỏ hướng xuống dưới, còn trục x sẽ là cách đều 2 bên con trỏ)
